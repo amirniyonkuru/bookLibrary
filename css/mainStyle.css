@@ -1,0 +1,66 @@
+.container {
+  width: 100%;
+  height: 100%;
+  text-transform: capitalize;
+}
+.headTittle {
+  margin: 3% auto 0;
+  font-size: xxx-large;
+  width: 50%;
+}
+.fa {
+  color: rgb(4, 172, 238);
+}
+.innerBook {
+  color: black;
+  font-weight: normal;
+  margin-left: 1rem;
+}
+.book {
+  color: rgb(4, 172, 238);
+}
+.inputFields {
+  margin: 3% auto 0;
+  font-size: x-large;
+  width: 70%;
+}
+.inputF {
+  width: 70%;
+  height: 30px;
+}
+#btnBook {
+  background-color: rgb(40, 132, 175);
+  color: white;
+  font-size: xx-large;
+  text-align: center;
+  text-transform: capitalize;
+  margin: 3% auto;
+  width: 70%;
+}
+.resultTable {
+  margin: 3% auto 0;
+  width: 70%;
+}
+#bookTable {
+  width: 70%;
+  border: 1px solid black;
+  text-align: left;
+}
+th {
+  font-weight: bolder;
+  font-size: 1.7rem;
+  background-color: rgb(156, 156, 243);
+}
+.delBtn {
+  background-color: rgb(255, 0, 0);
+}
+
+.edtBtn {
+  background-color: rgb(40, 132, 175);
+}
+.fa-pen {
+  color: white;
+}
+.fa-trash {
+  color: black;
+}
